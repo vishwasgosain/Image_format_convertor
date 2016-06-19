@@ -1,4 +1,5 @@
 # Image_format_convertor
+Make sure you have opencv installed in your computer
 Changes the format of the image to the specified format using opencv
 Remember to put the code and the image in the same folder
 Put the name of the image in cv2.imread('example.jpg')
